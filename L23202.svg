@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1534" viewBox="0 0 1280 1534" role="img" aria-label="L23202 常見機器學習演算法 考點資訊圖表">
+<rect width="1280" height="1534" fill="#fffaf0"/>
+<rect x="24" y="24" width="1232" height="1486" rx="30" fill="#ffffff" stroke="#d9d3c7"/>
+<text x="54" y="78" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="30" font-weight="800" fill="#17211f">L23202 常見機器學習演算法</text>
+<text x="54" y="116" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="18" fill="#65716d">科目三：機器學習技術與應用 · 60 個名詞 · 依考點屬性分群</text>
+<rect x="54" y="156" width="1172" height="432" rx="22" fill="#dff8f3" stroke="#0f766e" stroke-opacity="0.22"/>
+<text x="76" y="190" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#0f766e">模型/演算法 (27)</text>
+<rect x="76" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="88" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">分群</text>
+<rect x="266" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="278" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">正則化</text>
+<rect x="456" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="468" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">決策樹</text>
+<rect x="646" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="658" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">抽樣</text>
+<rect x="836" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="848" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">常見機器學習演算法</text>
+<rect x="1026" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="1038" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">集成學習</text>
+<rect x="76" y="282" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="88" y="306" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">機器學習</text>
+<rect x="266" y="282" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="278" y="306" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">激活函數</text>
+<rect x="456" y="282" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="468" y="306" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">隨機森林</text>
+<rect x="646" y="282" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="658" y="306" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">變異</text>
+<rect x="836" y="282" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="848" y="306" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">邏輯迴歸</text>
+<rect x="1026" y="282" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="1038" y="306" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Bagging</text>
+<rect x="76" y="354" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="88" y="378" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Boosting</text>
+<rect x="266" y="354" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="278" y="378" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Bootstrap</text>
+<rect x="456" y="354" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="468" y="378" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">CNN</text>
+<rect x="646" y="354" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="658" y="378" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Ensemble Learning</text>
+<rect x="836" y="354" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="848" y="378" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">GBDT</text>
+<rect x="1026" y="354" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="1038" y="378" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">GBDT 改進</text>
+<rect x="76" y="426" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="88" y="450" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">L1</text>
+<rect x="266" y="426" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="278" y="450" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">LightGBM</text>
+<rect x="456" y="426" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="468" y="450" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">LogisticRegression</text>
+<rect x="646" y="426" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="658" y="450" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Random Forest</text>
+<rect x="836" y="426" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="848" y="450" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Softmax</text>
+<rect x="1026" y="426" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="1038" y="450" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Stacking</text>
+<rect x="76" y="498" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="88" y="522" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Target Encoding</text>
+<rect x="266" y="498" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="278" y="522" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">XGBoost</text>
+<rect x="456" y="498" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="468" y="522" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">XGBoost vs GBDT 改進</text>
+<rect x="54" y="610" width="1172" height="144" rx="22" fill="#fff1d6" stroke="#b45309" stroke-opacity="0.22"/>
+<text x="76" y="644" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#b45309">資料/特徵 (3)</text>
+<rect x="76" y="664" width="176" height="58" rx="14" fill="#fffefa" stroke="#b45309" stroke-opacity="0.18"/>
+<text x="88" y="688" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">降維</text>
+<rect x="266" y="664" width="176" height="58" rx="14" fill="#fffefa" stroke="#b45309" stroke-opacity="0.18"/>
+<text x="278" y="688" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">特徵選擇</text>
+<rect x="456" y="664" width="176" height="58" rx="14" fill="#fffefa" stroke="#b45309" stroke-opacity="0.18"/>
+<text x="468" y="688" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">常態分佈</text>
+<rect x="54" y="776" width="1172" height="360" rx="22" fill="#e3ecff" stroke="#2563eb" stroke-opacity="0.22"/>
+<text x="76" y="810" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#2563eb">公式/指標 (24)</text>
+<rect x="76" y="830" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="88" y="854" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">支援向量機</text>
+<rect x="266" y="830" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="278" y="854" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">信用評分</text>
+<rect x="456" y="830" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="468" y="854" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">信用評分卡標準流程</text>
+<rect x="646" y="830" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="658" y="854" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">核函數</text>
+<rect x="836" y="830" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="848" y="854" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">關聯規則</text>
+<rect x="1026" y="830" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="1038" y="854" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Apriori</text>
+<rect x="76" y="902" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="88" y="926" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Border</text>
+<rect x="266" y="902" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="278" y="926" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">CatBoost</text>
+<rect x="456" y="902" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="468" y="926" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Confidence</text>
+<rect x="646" y="902" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="658" y="926" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">DBSCAN</text>
+<rect x="836" y="902" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="848" y="926" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">HDBSCAN</text>
+<rect x="1026" y="902" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="1038" y="926" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">K-means</text>
+<rect x="76" y="974" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="88" y="998" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">K-means vs DBSCAN</text>
+<rect x="266" y="974" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="278" y="998" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">L2</text>
+<rect x="456" y="974" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="468" y="998" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Lift</text>
+<rect x="646" y="974" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="658" y="998" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Logistic Regression</text>
+<rect x="836" y="974" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="848" y="998" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Noise</text>
+<rect x="1026" y="974" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="1038" y="998" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">PCA</text>
+<rect x="76" y="1046" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="88" y="1070" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">PSI</text>
+<rect x="266" y="1046" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="278" y="1070" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">SVM</text>
+<rect x="456" y="1046" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="468" y="1070" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">SVM 超平面</text>
+<rect x="646" y="1046" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="658" y="1070" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">SVM 超平面 + 核函數</text>
+<rect x="836" y="1046" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="848" y="1070" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Target Leakage</text>
+<rect x="1026" y="1046" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="1038" y="1070" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">UMAP</text>
+<rect x="54" y="1158" width="1172" height="144" rx="22" fill="#efe7ff" stroke="#7c3aed" stroke-opacity="0.22"/>
+<text x="76" y="1192" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#7c3aed">工具/API (5)</text>
+<rect x="76" y="1212" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="88" y="1236" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">偏誤</text>
+<rect x="266" y="1212" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="278" y="1236" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">class_weight</text>
+<rect x="456" y="1212" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="468" y="1236" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">GMM</text>
+<rect x="646" y="1212" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="658" y="1236" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">numpy</text>
+<rect x="836" y="1212" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="848" y="1236" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">sklearn</text>
+<rect x="54" y="1324" width="1172" height="144" rx="22" fill="#eef2f7" stroke="#64748b" stroke-opacity="0.22"/>
+<text x="76" y="1358" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#64748b">概念 (1)</text>
+<rect x="76" y="1378" width="176" height="58" rx="14" fill="#fffefa" stroke="#64748b" stroke-opacity="0.18"/>
+<text x="88" y="1402" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Gini</text>
+</svg>

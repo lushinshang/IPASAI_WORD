@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1390" viewBox="0 0 1280 1390" role="img" aria-label="L21102 電腦視覺技術與應用 考點資訊圖表">
+<rect width="1280" height="1390" fill="#fffaf0"/>
+<rect x="24" y="24" width="1232" height="1342" rx="30" fill="#ffffff" stroke="#d9d3c7"/>
+<text x="54" y="78" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="30" font-weight="800" fill="#17211f">L21102 電腦視覺技術與應用</text>
+<text x="54" y="116" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="18" fill="#65716d">科目一：AI 技術應用與規劃 · 41 個名詞 · 依考點屬性分群</text>
+<rect x="54" y="156" width="1172" height="432" rx="22" fill="#dff8f3" stroke="#0f766e" stroke-opacity="0.22"/>
+<text x="76" y="190" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#0f766e">模型/演算法 (26)</text>
+<rect x="76" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="88" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">全連接神經網路</text>
+<rect x="266" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="278" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">全景分割</text>
+<rect x="456" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="468" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">物件偵測</text>
+<rect x="646" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="658" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">神經元</text>
+<rect x="836" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="848" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">基礎模型</text>
+<rect x="1026" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="1038" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">梯度消失</text>
+<rect x="76" y="282" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="88" y="306" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">經典 CNN 譜系</text>
+<rect x="266" y="282" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="278" y="306" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">電腦視覺技術</text>
+<rect x="456" y="282" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="468" y="306" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">電腦視覺技術與應用</text>
+<rect x="646" y="282" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="658" y="306" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">影像分類</text>
+<rect x="836" y="282" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="848" y="306" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">遷移學習</text>
+<rect x="1026" y="282" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="1038" y="306" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">AlexNet</text>
+<rect x="76" y="354" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="88" y="378" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">CNN</text>
+<rect x="266" y="354" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="278" y="378" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">CV 任務四階層</text>
+<rect x="456" y="354" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="468" y="378" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">CV 任務四階層:分類 →</text>
+<text x="468" y="398" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f"> 物件偵測 → 語意分割 </text>
+<rect x="646" y="354" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="658" y="378" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Dropout</text>
+<rect x="836" y="354" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="848" y="378" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">FLOPs</text>
+<rect x="1026" y="354" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="1038" y="378" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">GoogLeNet</text>
+<rect x="76" y="426" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="88" y="450" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">LeNet</text>
+<rect x="266" y="426" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="278" y="450" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Object Detection</text>
+<rect x="456" y="426" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="468" y="450" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Panoptic Segmentation</text>
+<rect x="646" y="426" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="658" y="450" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">ReLU</text>
+<rect x="836" y="426" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="848" y="450" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">ResNet</text>
+<rect x="1026" y="426" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="1038" y="450" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Transfer Learning</text>
+<rect x="76" y="498" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="88" y="522" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">VGG</text>
+<rect x="266" y="498" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="278" y="522" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">VGG16</text>
+<rect x="54" y="610" width="1172" height="144" rx="22" fill="#fff1d6" stroke="#b45309" stroke-opacity="0.22"/>
+<text x="76" y="644" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#b45309">資料/特徵 (2)</text>
+<rect x="76" y="664" width="176" height="58" rx="14" fill="#fffefa" stroke="#b45309" stroke-opacity="0.18"/>
+<text x="88" y="688" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">降維</text>
+<rect x="266" y="664" width="176" height="58" rx="14" fill="#fffefa" stroke="#b45309" stroke-opacity="0.18"/>
+<text x="278" y="688" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Pooling</text>
+<rect x="54" y="776" width="1172" height="216" rx="22" fill="#e3ecff" stroke="#2563eb" stroke-opacity="0.22"/>
+<text x="76" y="810" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#2563eb">公式/指標 (7)</text>
+<rect x="76" y="830" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="88" y="854" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">召回率</text>
+<rect x="266" y="830" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="278" y="854" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">機率分佈</text>
+<rect x="456" y="830" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="468" y="854" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">IoU</text>
+<rect x="646" y="830" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="658" y="854" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">mAP</text>
+<rect x="836" y="830" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="848" y="854" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Precision</text>
+<rect x="1026" y="830" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="1038" y="854" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Recall</text>
+<rect x="76" y="902" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="88" y="926" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">ROI</text>
+<rect x="54" y="1014" width="1172" height="144" rx="22" fill="#ffe3ea" stroke="#be123c" stroke-opacity="0.22"/>
+<text x="76" y="1048" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#be123c">流程/架構 (5)</text>
+<rect x="76" y="1068" width="176" height="58" rx="14" fill="#fffefa" stroke="#be123c" stroke-opacity="0.18"/>
+<text x="88" y="1092" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">實例分割</text>
+<rect x="266" y="1068" width="176" height="58" rx="14" fill="#fffefa" stroke="#be123c" stroke-opacity="0.18"/>
+<text x="278" y="1092" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">語意分割</text>
+<rect x="456" y="1068" width="176" height="58" rx="14" fill="#fffefa" stroke="#be123c" stroke-opacity="0.18"/>
+<text x="468" y="1092" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">模型量化</text>
+<rect x="646" y="1068" width="176" height="58" rx="14" fill="#fffefa" stroke="#be123c" stroke-opacity="0.18"/>
+<text x="658" y="1092" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">EfficientNet</text>
+<rect x="836" y="1068" width="176" height="58" rx="14" fill="#fffefa" stroke="#be123c" stroke-opacity="0.18"/>
+<text x="848" y="1092" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">YOLO</text>
+<rect x="54" y="1180" width="1172" height="144" rx="22" fill="#eef2f7" stroke="#64748b" stroke-opacity="0.22"/>
+<text x="76" y="1214" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#64748b">概念 (1)</text>
+<rect x="76" y="1234" width="176" height="58" rx="14" fill="#fffefa" stroke="#64748b" stroke-opacity="0.18"/>
+<text x="88" y="1258" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">電腦視覺</text>
+</svg>

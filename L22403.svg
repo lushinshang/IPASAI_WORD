@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1102" viewBox="0 0 1280 1102" role="img" aria-label="L22403 大數據在生成式 AI 中的應用 考點資訊圖表">
+<rect width="1280" height="1102" fill="#fffaf0"/>
+<rect x="24" y="24" width="1232" height="1054" rx="30" fill="#ffffff" stroke="#d9d3c7"/>
+<text x="54" y="78" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="30" font-weight="800" fill="#17211f">L22403 大數據在生成式 AI 中的應用</text>
+<text x="54" y="116" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="18" fill="#65716d">科目二：大數據處理分析與應用 · 22 個名詞 · 依考點屬性分群</text>
+<rect x="54" y="156" width="1172" height="144" rx="22" fill="#dff8f3" stroke="#0f766e" stroke-opacity="0.22"/>
+<text x="76" y="190" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#0f766e">模型/演算法 (6)</text>
+<rect x="76" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="88" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">多樣性平衡</text>
+<rect x="266" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="278" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">偏誤</text>
+<rect x="456" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="468" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">過濾低品質</text>
+<rect x="646" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="658" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Chinchilla</text>
+<rect x="836" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="848" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Model Collapse</text>
+<rect x="1026" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="1038" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Token</text>
+<rect x="54" y="322" width="1172" height="144" rx="22" fill="#e3ecff" stroke="#2563eb" stroke-opacity="0.22"/>
+<text x="76" y="356" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#2563eb">公式/指標 (2)</text>
+<rect x="76" y="376" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="88" y="400" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">資料 × 參數 × 算力</text>
+<rect x="266" y="376" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="278" y="400" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">opt-out</text>
+<rect x="54" y="488" width="1172" height="144" rx="22" fill="#efe7ff" stroke="#7c3aed" stroke-opacity="0.22"/>
+<text x="76" y="522" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#7c3aed">工具/API (6)</text>
+<rect x="76" y="542" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="88" y="566" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">詞向量</text>
+<rect x="266" y="542" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="278" y="566" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">領域比例</text>
+<rect x="456" y="542" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="468" y="566" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">fit_transform</text>
+<rect x="646" y="542" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="658" y="566" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">MinHash</text>
+<rect x="836" y="542" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="848" y="566" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">SimHash</text>
+<rect x="1026" y="542" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="1038" y="566" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">sklearn</text>
+<rect x="54" y="654" width="1172" height="216" rx="22" fill="#e8eaee" stroke="#374151" stroke-opacity="0.22"/>
+<text x="76" y="688" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#374151">風險/治理 (7)</text>
+<rect x="76" y="708" width="176" height="58" rx="14" fill="#fffefa" stroke="#374151" stroke-opacity="0.18"/>
+<text x="88" y="732" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">大數據在生成式 AI 中的</text>
+<text x="88" y="752" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">應用</text>
+<rect x="266" y="708" width="176" height="58" rx="14" fill="#fffefa" stroke="#374151" stroke-opacity="0.18"/>
+<text x="278" y="732" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">生成式 AI</text>
+<rect x="456" y="708" width="176" height="58" rx="14" fill="#fffefa" stroke="#374151" stroke-opacity="0.18"/>
+<text x="468" y="732" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">生成式 AI 著作權</text>
+<rect x="646" y="708" width="176" height="58" rx="14" fill="#fffefa" stroke="#374151" stroke-opacity="0.18"/>
+<text x="658" y="732" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">訴訟風險</text>
+<rect x="836" y="708" width="176" height="58" rx="14" fill="#fffefa" stroke="#374151" stroke-opacity="0.18"/>
+<text x="848" y="732" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">機會</text>
+<rect x="1026" y="708" width="176" height="58" rx="14" fill="#fffefa" stroke="#374151" stroke-opacity="0.18"/>
+<text x="1038" y="732" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">隱私</text>
+<rect x="76" y="780" width="176" height="58" rx="14" fill="#fffefa" stroke="#374151" stroke-opacity="0.18"/>
+<text x="88" y="804" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">synthetic data</text>
+<rect x="54" y="892" width="1172" height="144" rx="22" fill="#eef2f7" stroke="#64748b" stroke-opacity="0.22"/>
+<text x="76" y="926" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#64748b">概念 (1)</text>
+<rect x="76" y="946" width="176" height="58" rx="14" fill="#fffefa" stroke="#64748b" stroke-opacity="0.18"/>
+<text x="88" y="970" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Overfit</text>
+</svg>

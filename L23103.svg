@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1318" viewBox="0 0 1280 1318" role="img" aria-label="L23103 數值優化技術與方法 考點資訊圖表">
+<rect width="1280" height="1318" fill="#fffaf0"/>
+<rect x="24" y="24" width="1232" height="1270" rx="30" fill="#ffffff" stroke="#d9d3c7"/>
+<text x="54" y="78" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="30" font-weight="800" fill="#17211f">L23103 數值優化技術與方法</text>
+<text x="54" y="116" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="18" fill="#65716d">科目三：機器學習技術與應用 · 37 個名詞 · 依考點屬性分群</text>
+<rect x="54" y="156" width="1172" height="216" rx="22" fill="#dff8f3" stroke="#0f766e" stroke-opacity="0.22"/>
+<text x="76" y="190" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#0f766e">模型/演算法 (10)</text>
+<rect x="76" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="88" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">凸函數</text>
+<rect x="266" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="278" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">凸函數 vs 非凸函數 /</text>
+<text x="278" y="254" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f"> 局部最優 / 鞍點</text>
+<rect x="456" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="468" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">正則化</text>
+<rect x="646" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="658" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">局部最優</text>
+<rect x="836" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="848" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">非凸函數</text>
+<rect x="1026" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="1038" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">深度學習</text>
+<rect x="76" y="282" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="88" y="306" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">數值優化技術與方法</text>
+<rect x="266" y="282" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="278" y="306" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">鞍點</text>
+<rect x="456" y="282" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="468" y="306" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Adam</text>
+<rect x="646" y="282" width="176" height="58" rx="14" fill="#fffefa" stroke="#0f766e" stroke-opacity="0.18"/>
+<text x="658" y="306" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">L2</text>
+<rect x="54" y="394" width="1172" height="144" rx="22" fill="#fff1d6" stroke="#b45309" stroke-opacity="0.22"/>
+<text x="76" y="428" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#b45309">資料/特徵 (2)</text>
+<rect x="76" y="448" width="176" height="58" rx="14" fill="#fffefa" stroke="#b45309" stroke-opacity="0.18"/>
+<text x="88" y="472" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">時間複雜度</text>
+<rect x="266" y="448" width="176" height="58" rx="14" fill="#fffefa" stroke="#b45309" stroke-opacity="0.18"/>
+<text x="278" y="472" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">n²</text>
+<rect x="54" y="560" width="1172" height="144" rx="22" fill="#e3ecff" stroke="#2563eb" stroke-opacity="0.22"/>
+<text x="76" y="594" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#2563eb">公式/指標 (3)</text>
+<rect x="76" y="614" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="88" y="638" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">數值優化技術</text>
+<rect x="266" y="614" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="278" y="638" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">學習率</text>
+<rect x="456" y="614" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="468" y="638" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">SVM</text>
+<rect x="54" y="726" width="1172" height="360" rx="22" fill="#efe7ff" stroke="#7c3aed" stroke-opacity="0.22"/>
+<text x="76" y="760" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#7c3aed">工具/API (19)</text>
+<rect x="76" y="780" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="88" y="804" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">* — 內積</text>
+<rect x="266" y="780" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="278" y="804" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">* — 逐元素乘法</text>
+<rect x="456" y="780" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="468" y="804" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">反矩陣</text>
+<rect x="646" y="780" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="658" y="804" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">正規化</text>
+<rect x="836" y="780" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="848" y="804" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">向量範數</text>
+<rect x="1026" y="780" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="1038" y="804" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">行列式</text>
+<rect x="76" y="852" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="88" y="876" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">降維</text>
+<rect x="266" y="852" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="278" y="876" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">特徵值</text>
+<rect x="456" y="852" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="468" y="876" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">逐元素</text>
+<rect x="646" y="852" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="658" y="876" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">np.arange</text>
+<rect x="836" y="852" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="848" y="876" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">numpy</text>
+<rect x="1026" y="852" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="1038" y="876" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">NumPy 向量範數 — np.</text>
+<text x="1038" y="896" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">linalg.norm 預設與 or</text>
+<rect x="76" y="924" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="88" y="948" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">NumPy 線代核心 — 反矩</text>
+<text x="88" y="968" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">陣</text>
+<rect x="266" y="924" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="278" y="948" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">NumPy 線代核心 — 反矩</text>
+<text x="278" y="968" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">陣 / 跡 / 特徵值 /</text>
+<rect x="456" y="924" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="468" y="948" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">NumPy np.dot</text>
+<rect x="646" y="924" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="658" y="948" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">NumPy np.dot vs * </text>
+<text x="658" y="968" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">— 內積 vs 逐元素</text>
+<rect x="836" y="924" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="848" y="948" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">ord 參數</text>
+<rect x="1026" y="924" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="1038" y="948" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">scalar</text>
+<rect x="76" y="996" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="88" y="1020" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">shape</text>
+<rect x="54" y="1108" width="1172" height="144" rx="22" fill="#eef2f7" stroke="#64748b" stroke-opacity="0.22"/>
+<text x="76" y="1142" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#64748b">概念 (3)</text>
+<rect x="76" y="1162" width="176" height="58" rx="14" fill="#fffefa" stroke="#64748b" stroke-opacity="0.18"/>
+<text x="88" y="1186" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">欠擬合</text>
+<rect x="266" y="1162" width="176" height="58" rx="14" fill="#fffefa" stroke="#64748b" stroke-opacity="0.18"/>
+<text x="278" y="1186" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">L1</text>
+<rect x="456" y="1162" width="176" height="58" rx="14" fill="#fffefa" stroke="#64748b" stroke-opacity="0.18"/>
+<text x="468" y="1186" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Learning Rate</text>
+</svg>

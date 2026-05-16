@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1102" viewBox="0 0 1280 1102" role="img" aria-label="L21203 AI 風險管理 考點資訊圖表">
+<rect width="1280" height="1102" fill="#fffaf0"/>
+<rect x="24" y="24" width="1232" height="1054" rx="30" fill="#ffffff" stroke="#d9d3c7"/>
+<text x="54" y="78" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="30" font-weight="800" fill="#17211f">L21203 AI 風險管理</text>
+<text x="54" y="116" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="18" fill="#65716d">科目一：AI 技術應用與規劃 · 21 個名詞 · 依考點屬性分群</text>
+<rect x="54" y="156" width="1172" height="144" rx="22" fill="#e3ecff" stroke="#2563eb" stroke-opacity="0.22"/>
+<text x="76" y="190" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#2563eb">公式/指標 (5)</text>
+<rect x="76" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="88" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">公平性</text>
+<rect x="266" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="278" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">差分隱私</text>
+<rect x="456" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="468" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">聯邦學習</text>
+<rect x="646" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="658" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">隱私</text>
+<rect x="836" y="210" width="176" height="58" rx="14" fill="#fffefa" stroke="#2563eb" stroke-opacity="0.18"/>
+<text x="848" y="234" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">DPIA</text>
+<rect x="54" y="322" width="1172" height="144" rx="22" fill="#efe7ff" stroke="#7c3aed" stroke-opacity="0.22"/>
+<text x="76" y="356" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#7c3aed">工具/API (5)</text>
+<rect x="76" y="376" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="88" y="400" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">不可否認性</text>
+<rect x="266" y="376" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="278" y="400" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">多模態</text>
+<rect x="456" y="376" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="468" y="400" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">數位簽章</text>
+<rect x="646" y="376" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="658" y="400" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Hash</text>
+<rect x="836" y="376" width="176" height="58" rx="14" fill="#fffefa" stroke="#7c3aed" stroke-opacity="0.18"/>
+<text x="848" y="400" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Non-repudiation</text>
+<rect x="54" y="488" width="1172" height="144" rx="22" fill="#ffe3ea" stroke="#be123c" stroke-opacity="0.22"/>
+<text x="76" y="522" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#be123c">流程/架構 (3)</text>
+<rect x="76" y="542" width="176" height="58" rx="14" fill="#fffefa" stroke="#be123c" stroke-opacity="0.18"/>
+<text x="88" y="566" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">生成式 AI</text>
+<rect x="266" y="542" width="176" height="58" rx="14" fill="#fffefa" stroke="#be123c" stroke-opacity="0.18"/>
+<text x="278" y="566" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">生成式 AI 著作權侵權對</text>
+<text x="278" y="586" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">策</text>
+<rect x="456" y="542" width="176" height="58" rx="14" fill="#fffefa" stroke="#be123c" stroke-opacity="0.18"/>
+<text x="468" y="566" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">AI 風險管理</text>
+<rect x="54" y="654" width="1172" height="216" rx="22" fill="#e8eaee" stroke="#374151" stroke-opacity="0.22"/>
+<text x="76" y="688" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#374151">風險/治理 (7)</text>
+<rect x="76" y="708" width="176" height="58" rx="14" fill="#fffefa" stroke="#374151" stroke-opacity="0.18"/>
+<text x="88" y="732" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">自動化決策</text>
+<rect x="266" y="708" width="176" height="58" rx="14" fill="#fffefa" stroke="#374151" stroke-opacity="0.18"/>
+<text x="278" y="732" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">風險管理</text>
+<rect x="456" y="708" width="176" height="58" rx="14" fill="#fffefa" stroke="#374151" stroke-opacity="0.18"/>
+<text x="468" y="732" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">資料可攜權</text>
+<rect x="646" y="708" width="176" height="58" rx="14" fill="#fffefa" stroke="#374151" stroke-opacity="0.18"/>
+<text x="658" y="732" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">Adversarial Attack</text>
+<rect x="836" y="708" width="176" height="58" rx="14" fill="#fffefa" stroke="#374151" stroke-opacity="0.18"/>
+<text x="848" y="732" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">GDPR</text>
+<rect x="1026" y="708" width="176" height="58" rx="14" fill="#fffefa" stroke="#374151" stroke-opacity="0.18"/>
+<text x="1038" y="732" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">GDPR 七大權利</text>
+<rect x="76" y="780" width="176" height="58" rx="14" fill="#fffefa" stroke="#374151" stroke-opacity="0.18"/>
+<text x="88" y="804" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">PDPA</text>
+<rect x="54" y="892" width="1172" height="144" rx="22" fill="#eef2f7" stroke="#64748b" stroke-opacity="0.22"/>
+<text x="76" y="926" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="20" font-weight="800" fill="#64748b">概念 (1)</text>
+<rect x="76" y="946" width="176" height="58" rx="14" fill="#fffefa" stroke="#64748b" stroke-opacity="0.18"/>
+<text x="88" y="970" font-family="Noto Sans TC, PingFang TC, sans-serif" font-size="15" font-weight="700" fill="#17211f">被遺忘權</text>
+</svg>
